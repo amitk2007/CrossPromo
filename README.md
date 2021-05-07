@@ -36,3 +36,7 @@
     }
   }
 ```
+#
+
+## * Notice - the prefab size is 200x200 so placing is on an empty scene will fill the sceen *
+### Make sure to resize to fit your scene 
